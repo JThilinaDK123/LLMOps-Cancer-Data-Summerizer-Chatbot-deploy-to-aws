@@ -1,0 +1,12 @@
+[
+  {
+    "role": "user",
+    "content": "hi there",
+    "timestamp": "2025-11-08T09:52:13.542659"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! I see you've uploaded a PDF document related to ESG indicators. Can you tell me a bit about the context behind this document? Is this for a specific project or are you looking to understand the ESG metrics in general?",
+    "timestamp": "2025-11-08T09:52:13.542659"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Hi there, its me brian",
+    "timestamp": "2025-11-08T11:40:44.404638"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Brian, nice to talk to you. I noticed you've uploaded an ESG-related PDF document. I'd be happy to help you summarize and understand the content. What specifically would you like to know or discuss about the document? The indicators, their frequency, or perhaps their significance in the context of ESG metrics?",
+    "timestamp": "2025-11-08T11:40:44.404638"
+  },
+  {
+    "role": "user",
+    "content": "What's my name is ?",
+    "timestamp": "2025-11-08T11:40:50.340398"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Brian. I noted it from the beginning of our conversation. Now, if you're ready, we can dive into the ESG document you've shared. What would you like to know about the indicators listed in Table 1?",
+    "timestamp": "2025-11-08T11:40:50.340398"
+  }
+]

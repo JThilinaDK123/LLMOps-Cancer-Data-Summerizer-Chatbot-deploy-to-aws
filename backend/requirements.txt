@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+python-multipart
+langchain
+boto3
+pypdf
+mangum
+langchain

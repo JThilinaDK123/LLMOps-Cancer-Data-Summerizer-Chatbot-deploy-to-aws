@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "hi there, its me alex",
+    "timestamp": "2025-11-07T20:59:49.223228"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi Alex, what brings you here today? Are you looking for some insights on ESG indicators or something related to sustainability analytics?",
+    "timestamp": "2025-11-07T20:59:49.223228"
+  },
+  {
+    "role": "user",
+    "content": "what's my name",
+    "timestamp": "2025-11-07T20:59:53.003906"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Alex, we just established that at the beginning of our conversation. What would you like to talk about regarding ESG indicators or sustainability analytics? You had mentioned an ESG document, if you'd like to share more about it, I'd be happy to help summarize its contents for you.",
+    "timestamp": "2025-11-07T20:59:53.003906"
+  }
+]
